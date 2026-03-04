@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Giới Thiệu Cá Nhân</title>
+</head>
+<body style="font-family: Arial; text-align: center; margin-top: 50px;">
+
+    <h1>LÊ HUỲNH MINH HOÀNG</h1>
+    
+    <p><strong>Sinh năm:</strong> 2007</p>
+    
+    <p><strong>Trường: </strong> Cao Đẳng Kỹ Thuật Công Nghệ Nha Trang</p>
+
+</body>
+</html>
